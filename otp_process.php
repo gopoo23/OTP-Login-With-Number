@@ -17,7 +17,7 @@ switch ($ch) {
 
 			curl_setopt_array($curl, array(
 		//CURLOPT_URL => "http://2factor.in/API/V1/293832-67745-11e5-88de-5600000c6b13/SMS/9911991199/4499",
-		   CURLOPT_URL => "http://2factor.in/API/V1/a0f7d320-5d22-11ed-9c12-0200cd936042/SMS/".$num."/".$otp."",
+		   CURLOPT_URL => "Follow the link/ Your 2Factor API ".$num."/".$otp."",
 		  CURLOPT_RETURNTRANSFER => true,
 		  CURLOPT_ENCODING => "",
 		  CURLOPT_MAXREDIRS => 10,
