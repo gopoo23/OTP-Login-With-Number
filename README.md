@@ -19,7 +19,7 @@ HTML, CSS, Javascript and 2Factor API for number otp
 2. 2Factor API
 
 ## Mysql DB
-one one user table with two fields email and otp.
+one one user table with two fields number and otp.
 since it's very tuny and basic database, therefore not uploaded to the github.
 
 
